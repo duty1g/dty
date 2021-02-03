@@ -8,19 +8,7 @@ the origin of this idea was a windows machine i was doing on pentest mission and
 > so you can pass your IP and PORT parameters from filename example : dty_127.0.0.1_120.exe
 > PS: dty is mandatory in filename
 
-```
-C:\Users\duty\Desktop>dty_10.10.14.1_120.exe -h
-        ___ _
-       /   \ |_ _   _
-      / /\ / __| | | |
-     / /_//| |_| |_| |
-    /___,'  \__|\__, |
-                |___/
-                   v1.0
-    tiny reverse shell by @duty
-    [!] Use filename as paramaeters exapmle:
-    dty_127.0.0.1_120.exe
-```
+![alt text](https://raw.githubusercontent.com/duty1g/dty/main/screens/help.jpg "Help")
 
 # Features 
 
