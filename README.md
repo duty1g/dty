@@ -1,4 +1,7 @@
 # dty
+![alt text](https://img.shields.io/github/downloads/duty1g/dty/total "")
+![alt text](https://img.shields.io/github/v/release/duty1g/dty "")
+![alt text](https://img.shields.io/github/license/duty1g/dty "")
 
 it's a windows tiny lightful reverse shell project (6kb) and fully undetectable
 
