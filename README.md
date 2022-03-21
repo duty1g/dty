@@ -8,9 +8,10 @@ it's a windows tiny lightful reverse shell project (6kb) and fully undetectable
 the origin of this idea was a windows machine i was doing on pentest mission and there was an **RCE** with limitations -no spacing filter/race conditions-
 
 # Usage
-> so you can pass your IP and PORT parameters from filename example : dty_127.0.0.1_120.exe
-> also you can pass your IP and PORT parameters and executable file from filename example : dty_127.0.0.1_120_powershell.exe
-> PS: dty is mandatory in filename
+* so you can pass your IP and PORT parameters from filename example : 
+```dty_127.0.0.1_120.exe```
+* also you can pass your IP and PORT parameters and executable file from filename example : ```dty_127.0.0.1_120_powershell.exe```
+> **Note:** dty is mandatory in filename
 
 ![alt text](https://raw.githubusercontent.com/duty1g/dty/main/screens/help.jpg "Help")
 
